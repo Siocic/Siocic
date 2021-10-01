@@ -3,7 +3,7 @@ I'm 20 years old. I'm in my second year of college at FIT (Faculty of Informatio
 
 Skills:  JS / HTML / CSS/C++/C#
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siocic)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siocic&show_icons=true)  
 
 
 
