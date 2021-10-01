@@ -4,6 +4,7 @@ I'm 20 years old. I'm in my second year of college at FIT (Faculty of Informatio
 Skills:  JS / HTML / CSS/C++/C#
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siocic)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/Siocic)  
 <!--
 **Siocic/Siocic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
