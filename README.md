@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Faris Siocic
 I'm 20 years old. I'm in my second year of college at FIT (Faculty of Informational Technologies) in Mostar.
 
-Skills:  JS / HTML / CSS/C++/C#
+Skills:  JS / HTML / CSS/ C++
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siocic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faris-siocic-196066222/)  
 
