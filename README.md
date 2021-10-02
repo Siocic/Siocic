@@ -3,8 +3,7 @@ I'm 20 years old. I'm in my second year of college at FIT (Faculty of Informatio
 
 Skills:  JS / HTML / CSS/C++/C#
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siocic)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faris-siocic-196066222/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Siocic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/faris-siocic-196066222/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Siocic&show_icons=true)  
 
