@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Faris Siocic
-I'm 20 years old, from Tuzla. I'm in my second year of college at Faculty of Information Technologies (FIT), University "Džemal Bijedić"​ in Mostar
+I'm 21 years old, from Tuzla. I'm in my second year of college at Faculty of Information Technologies (FIT), University "Džemal Bijedić"​ in Mostar
 
 Skills:  JS / HTML / CSS/ C++
 
