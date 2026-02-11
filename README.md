@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Faris
-I'm 23 years old, from Tuzla. I'm in my fourth year of college at Faculty of Information Technologies (FIT), University "Džemal Bijedić"​ in Mostar
+I'm 25 years old, from Tuzla. I'm in my fourth year of college at Faculty of Information Technologies (FIT), University "Džemal Bijedić"​ in Mostar
 
 
 ### Skills
